@@ -119,6 +119,9 @@ a:hover {
 .content {
     background-color: rgb(255, 182, 182);
     grid-area: c;
+    background-image: url(docpic.webp);
+    background-size: cover;
+    
 }
 
 .footer {
